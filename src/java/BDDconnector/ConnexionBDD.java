@@ -14,7 +14,7 @@ Class.forName("com.mysql.cj.jdbc.Driver");
 
 String url="jdbc:mysql://localhost:3306/nomBdd";   
 String userName="root";
-String password="kaderTag1998*";
+String password="mdp";
 c= DriverManager.getConnection(url,userName,password);
 }
  
